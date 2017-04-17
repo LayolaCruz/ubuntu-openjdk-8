@@ -1,2 +1,9 @@
-# ubuntu-openjdk-8
-Docker Ubuntu OpenJDK 8
+# Docker: ubuntu-openjdk-8
+
+ * Ubuntu 
+ * OpenJDK 8
+ * OpenJFX
+ * git
+ * maven
+ * gradle
+ 
