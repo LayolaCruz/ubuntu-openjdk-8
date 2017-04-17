@@ -5,5 +5,4 @@
  * OpenJFX
  * git
  * maven
- * gradle
  
